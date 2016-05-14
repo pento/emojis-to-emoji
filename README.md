@@ -1,8 +1,6 @@
 emojis-to-emoji
 ===============
 
-![](logo.png)
-
 Chrome extension that replaces occurrences of 'emojis' with 'emoji'
 
 [Direct download of crx file](https://github.com/pento/emojis-to-emoji/blob/master/EmojisToEmoji.crx?raw=true)
