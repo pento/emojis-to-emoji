@@ -1,9 +1,9 @@
 {
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"name": "Emojis to Emoji",
 	"version": "1.0",
 	"description": "Replaces the text 'emojis' with 'emoji'.",
-	"content_scripts": 
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
